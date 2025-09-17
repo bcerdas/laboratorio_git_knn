@@ -20,9 +20,15 @@ public class Testing_repository {
         int total = numero + numero2;
         
         System.out.println("El total es: " + total);
+
         
         System.out.println("Esta linea es para testear el clon");
         
         
+        System.out.println("El total es: " + total);
+        System.out.println("El total es: " + total);
+        System.out.println("El total es: " + total);
+        System.out.println("El total es: " + total);
+
     }
 }
