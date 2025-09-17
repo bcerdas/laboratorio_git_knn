@@ -21,6 +21,8 @@ public class Testing_repository {
         
         System.out.println("El total es: " + total);
         
+        System.out.println("Esta linea es para testear el clon");
+        
         
     }
 }
